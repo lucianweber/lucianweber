@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 	<br>
 	<br>
@@ -12,7 +10,6 @@
 	<br>
 	<br>
 </div>
-
 
 <!--
 **lucianweber/lucianweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
